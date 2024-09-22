@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\MockExam\MockExamApi\obj\Debug\net8.0\MockExamApi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\MockExam\MockExamApi\obj\Debug\net8.0\MockExamApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\MockExam\MockExamApi\obj\Debug\net8.0\MockExamApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\MockExam\MockExamApi\obj\Debug\net8.0\MockExamApi.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\MockExam\MockExamApi\obj\Debug\net8.0\MockExamApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MockExam\MockExamApi\obj\Debug\net8.0\MockExamApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\MockExam\MockExamApi\obj\Debug\net8.0\MockExamApi.MvcApplicationPartsAssemblyInfo.cache
