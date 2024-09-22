@@ -1,0 +1,2 @@
+-🎯 A web application that generates mock exam questions, using React.js for the frontend and .NET 7 for the backend.
+-🥁 Still developing!
